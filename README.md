@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- I am currently a student at University of Florida
-- 🖥️ I am currently pursuing MS in Computer Science
-- 🌱 B.Tech Computer Science Engineering Spl. AI & ML at VIT Chennai
-- ⚡ I have worked using Python, Java, C, C++, HTML, CSS, AWS & MS Azure
-- 📈 Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing 
-- 😎 UI/UX designer: Figma 
-- 📫 How to reach me: https://www.linkedin.com/in/pritika-kannapiran-388557223
-
+- MS in Computer Science, University of Florida
+- B.Tech in Computer Science Engineering (AI & ML), Vellore Institute of Technology
+- Graduate Research Assistant @IC3, University of Florida (Current)
+- Built real-time Agentic AI for enterprise solutions at AppViewX (Internship)
+- Publications in Deep Learning, Machine Learning, Natural Language Processing
+- Reach me at https://www.linkedin.com/in/pritika-k/
